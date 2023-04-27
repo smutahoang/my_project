@@ -1,2 +1,1 @@
-# my_project
-This is a test project for RMIT course Intro to IT
+This is some change I have made in README file
